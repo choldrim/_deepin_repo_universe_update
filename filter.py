@@ -8,10 +8,10 @@ import sys
 #test = "'vim-tiny': newly installed as '2:7.4.963-4deepin' (from 'universe'):"
 r = re.compile("'(.+)':.+'(.+)' \(from '(.+)'\)")
 
-print("   Package           version              repo  ")
-max_item_size = 35
+max_item_size = 55
+
 def get_formatted_item(item, size):
-    delta = size - len(item)
+    delta = size - (len(item) * 2)
     if delta < 1:
         delta = 1
     return "%s%s" %(item, " " * delta)
@@ -43,5 +43,6 @@ def filter_output(file_path):
 
 
 if __name__ == "__main__":
+    print("Package                  version                    repo")
     file_path = sys.argv[1]
     filter_output(file_path)
