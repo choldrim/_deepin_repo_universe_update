@@ -1,0 +1,201 @@
+Updates needed for 'unstable|non-free|source':
+'clion': newly installed as '1.2.4-1' (from 'universe'):
+ files needed: pool/non-free/c/clion/clion_1.2.4-1.dsc pool/non-free/c/clion/clion_1.2.4.orig.tar.gz pool/non-free/c/clion/clion_1.2.4-1.debian.tar.xz
+Updates needed for 'unstable|non-free|i386':
+'clion': newly installed as '1.2.4-1' (from 'universe'):
+ files needed: pool/non-free/c/clion/clion_1.2.4-1_all.deb
+'crossover': newly installed as '15.0.1-1' (from 'debian'):
+ files needed: pool/non-free/c/crossover/crossover_15.0.1-1_i386.deb
+'deepin-fonts-wine': newly installed as '1.9-3' (from 'debian'):
+ files needed: pool/non-free/d/deepin-wine/deepin-fonts-wine_1.9-3_all.deb
+'deepin-libwine': newly installed as '1.9-3' (from 'debian'):
+ files needed: pool/non-free/d/deepin-wine/deepin-libwine_1.9-3_i386.deb
+'deepin-libwine-dbg': newly installed as '1.9-3' (from 'debian'):
+ files needed: pool/non-free/d/deepin-wine/deepin-libwine-dbg_1.9-3_i386.deb
+'deepin-libwine-dev': newly installed as '1.9-3' (from 'debian'):
+ files needed: pool/non-free/d/deepin-wine/deepin-libwine-dev_1.9-3_i386.deb
+'deepin-wine': newly installed as '1.9-3' (from 'debian'):
+ files needed: pool/non-free/d/deepin-wine/deepin-wine_1.9-3_all.deb
+'deepin-wine-binfmt': newly installed as '1.9-3' (from 'debian'):
+ files needed: pool/non-free/d/deepin-wine/deepin-wine-binfmt_1.9-3_all.deb
+'deepin-wine32': newly installed as '1.9-3' (from 'debian'):
+ files needed: pool/non-free/d/deepin-wine/deepin-wine32_1.9-3_i386.deb
+'deepin-wine32-preloader': newly installed as '1.9-3' (from 'debian'):
+ files needed: pool/non-free/d/deepin-wine/deepin-wine32-preloader_1.9-3_i386.deb
+'deepin-wine32-tools': newly installed as '1.9-3' (from 'debian'):
+ files needed: pool/non-free/d/deepin-wine/deepin-wine32-tools_1.9-3_i386.deb
+'deepinwine-360zip': newly installed as '3.2.0.2080deepin1' (from 'debian'):
+ files needed: pool/non-free/d/deepinwine-360zip/deepinwine-360zip_3.2.0.2080deepin1_i386.deb
+'deepinwine-7zip': newly installed as '15.12deepin1' (from 'debian'):
+ files needed: pool/non-free/d/deepinwine-7zip/deepinwine-7zip_15.12deepin1_i386.deb
+'deepinwine-aaalogo': newly installed as '4.1.1deepin1' (from 'debian'):
+ files needed: pool/non-free/d/deepinwine-aaalogo/deepinwine-aaalogo_4.1.1deepin1_i386.deb
+'deepinwine-aliwangwang': newly installed as '8.10.24deepin1' (from 'debian'):
+ files needed: pool/non-free/d/deepinwine-aliwangwang/deepinwine-aliwangwang_8.10.24deepin1_i386.deb
+'deepinwine-aliworkbench': newly installed as '3.07.03Ndeepin3' (from 'debian'):
+ files needed: pool/non-free/d/deepinwine-aliworkbench/deepinwine-aliworkbench_3.07.03Ndeepin3_i386.deb
+'deepinwine-bitspirit': newly installed as '3.6.0.550deepin1' (from 'debian'):
+ files needed: pool/non-free/d/deepinwine-bitspirit/deepinwine-bitspirit_3.6.0.550deepin1_i386.deb
+'deepinwine-cajviewer': newly installed as '7.2.113.0deepin1' (from 'debian'):
+ files needed: pool/non-free/d/deepinwine-cajviewer/deepinwine-cajviewer_7.2.113.0deepin1_i386.deb
+'deepinwine-cjsc': newly installed as '1.0.3deepin1' (from 'debian'):
+ files needed: pool/non-free/d/deepinwine-cjsc/deepinwine-cjsc_1.0.3deepin1_i386.deb
+'deepinwine-cmbchina': newly installed as '7.1.3deepin7' (from 'debian'):
+ files needed: pool/non-free/d/deepinwine-cmbchina/deepinwine-cmbchina_7.1.3deepin7_i386.deb
+'deepinwine-foobar2000': newly installed as '1.3.9deepin1' (from 'debian'):
+ files needed: pool/non-free/d/deepinwine-foobar2000/deepinwine-foobar2000_1.3.9deepin1_i386.deb
+'deepinwine-hrtx': newly installed as '1.89.2052deepin5' (from 'debian'):
+ files needed: pool/non-free/d/deepinwine-hrtx/deepinwine-hrtx_1.89.2052deepin5_i386.deb
+'deepinwine-ie8': newly installed as '8.0deepin0' (from 'debian'):
+ files needed: pool/non-free/d/deepinwine-ie8/deepinwine-ie8_8.0deepin0_i386.deb
+'deepinwine-mailmaster': newly installed as '1.1.1.20deepin1' (from 'debian'):
+ files needed: pool/non-free/d/deepinwine-mailmaster/deepinwine-mailmaster_1.1.1.20deepin1_i386.deb
+'deepinwine-minicadsee': newly installed as '2016r1deepin0' (from 'debian'):
+ files needed: pool/non-free/d/deepinwine-minicadsee/deepinwine-minicadsee_2016r1deepin0_i386.deb
+'deepinwine-mtxiuxiu': newly installed as '4.0.6deepin0' (from 'debian'):
+ files needed: pool/non-free/d/deepinwine-mtxiuxiu/deepinwine-mtxiuxiu_4.0.6deepin0_i386.deb
+'deepinwine-qq': newly installed as '7.1.14522deepin5' (from 'debian'):
+ files needed: pool/non-free/d/deepinwine-qq/deepinwine-qq_7.1.14522deepin5_i386.deb
+'deepinwine-qqdownload': newly installed as '4.8.773.400deepin3' (from 'debian'):
+ files needed: pool/non-free/d/deepinwine-qqdownload/deepinwine-qqdownload_4.8.773.400deepin3_i386.deb
+'deepinwine-richez': newly installed as '1.19deepin0' (from 'debian'):
+ files needed: pool/non-free/d/deepinwine-richez/deepinwine-richez_1.19deepin0_i386.deb
+'deepinwine-rtx': newly installed as '8.3.625.1deepin4' (from 'debian'):
+ files needed: pool/non-free/d/deepinwine-rtx/deepinwine-rtx_8.3.625.1deepin4_i386.deb
+'deepinwine-tdx': newly installed as '7.23deepin1' (from 'debian'):
+ files needed: pool/non-free/d/deepinwine-tdx/deepinwine-tdx_7.23deepin1_i386.deb
+'deepinwine-thundermini': newly installed as '1.5.3.288deepin0' (from 'debian'):
+ files needed: pool/non-free/d/deepinwine-thundermini/deepinwine-thundermini_1.5.3.288deepin0_i386.deb
+'deepinwine-winrar': newly installed as '5.2.1deepin1' (from 'debian'):
+ files needed: pool/non-free/d/deepinwine-winrar/deepinwine-winrar_5.2.1deepin1_i386.deb
+Updates needed for 'unstable|non-free|amd64':
+'clion': newly installed as '1.2.4-1' (from 'universe'):
+ files needed: pool/non-free/c/clion/clion_1.2.4-1_all.deb
+'deepin-fonts-wine': newly installed as '1.9-3' (from 'debian'):
+ files needed: pool/non-free/d/deepin-wine/deepin-fonts-wine_1.9-3_all.deb
+'deepin-wine': newly installed as '1.9-3' (from 'debian'):
+ files needed: pool/non-free/d/deepin-wine/deepin-wine_1.9-3_all.deb
+'deepin-wine-binfmt': newly installed as '1.9-3' (from 'debian'):
+ files needed: pool/non-free/d/deepin-wine/deepin-wine-binfmt_1.9-3_all.deb
+Updates needed for 'unstable|contrib|source':
+'alien-arena': newly installed as '7.66+dfsg-3deepin' (from 'universe'):
+ files needed: pool/contrib/a/alien-arena/alien-arena_7.66+dfsg-3deepin.dsc pool/contrib/a/alien-arena/alien-arena_7.66+dfsg.orig.tar.gz pool/contrib/a/alien-arena/alien-arena_7.66+dfsg-3deepin.debian.tar.xz
+Updates needed for 'unstable|contrib|i386':
+'alien-arena': newly installed as '7.66+dfsg-3deepin' (from 'universe'):
+ files needed: pool/contrib/a/alien-arena/alien-arena_7.66+dfsg-3deepin_i386.deb
+'alien-arena-server': newly installed as '7.66+dfsg-3deepin' (from 'universe'):
+ files needed: pool/contrib/a/alien-arena/alien-arena-server_7.66+dfsg-3deepin_i386.deb
+Updates needed for 'unstable|contrib|amd64':
+'alien-arena': newly installed as '7.66+dfsg-3deepin' (from 'universe'):
+ files needed: pool/contrib/a/alien-arena/alien-arena_7.66+dfsg-3deepin_amd64.deb
+'alien-arena-server': newly installed as '7.66+dfsg-3deepin' (from 'universe'):
+ files needed: pool/contrib/a/alien-arena/alien-arena-server_7.66+dfsg-3deepin_amd64.deb
+Updates needed for 'unstable|main|source':
+'atom': newly installed as '1.4.0-1~webupd8~0' (from 'universe'):
+ files needed: pool/main/a/atom/atom_1.4.0-1~webupd8~0.dsc pool/main/a/atom/atom_1.4.0.orig.tar.xz pool/main/a/atom/atom_1.4.0-1~webupd8~0.debian.tar.xz
+'bcloud': newly installed as '3.8.2-2' (from 'universe'):
+ files needed: pool/main/b/bcloud/bcloud_3.8.2-2.dsc pool/main/b/bcloud/bcloud_3.8.2.orig.tar.xz pool/main/b/bcloud/bcloud_3.8.2-2.debian.tar.xz
+'datagrip': newly installed as '1.0-1' (from 'universe'):
+ files needed: pool/main/d/datagrip/datagrip_1.0-1.dsc pool/main/d/datagrip/datagrip_1.0-1.tar.gz
+'gnome-todo': newly installed as '3.18.1-2deepin' (from 'universe'):
+ files needed: pool/main/g/gnome-todo/gnome-todo_3.18.1-2deepin.dsc pool/main/g/gnome-todo/gnome-todo_3.18.1.orig.tar.gz pool/main/g/gnome-todo/gnome-todo_3.18.1-2deepin.debian.tar.xz
+'lutris': newly installed as '0.3.7.2+1' (from 'universe'):
+ files needed: pool/main/l/lutris/lutris_0.3.7.2+1.dsc pool/main/l/lutris/lutris_0.3.7.2+1.tar.gz
+'ppsspp': newly installed as '1.1.1~ubuntu15.04.1' (from 'universe'):
+ files needed: pool/main/p/ppsspp/ppsspp_1.1.1~ubuntu15.04.1.dsc pool/main/p/ppsspp/ppsspp_1.1.1~ubuntu15.04.1.tar.xz
+'vim': newly installed as '2:7.4.963-4deepin' (from 'universe'):
+ files needed: pool/main/v/vim/vim_7.4.963-4deepin.dsc pool/main/v/vim/vim_7.4.963.orig.tar.gz pool/main/v/vim/vim_7.4.963-4deepin.debian.tar.xz
+'xnretro': newly installed as '1.0.0-1' (from 'universe'):
+ files needed: pool/main/x/xnretro/xnretro_1.0.0-1.dsc pool/main/x/xnretro/xnretro_1.0.0-1.tar.gz
+Updates needed for 'unstable|main|i386':
+'atom': newly installed as '1.4.0-1~webupd8~0' (from 'universe'):
+ files needed: pool/main/a/atom/atom_1.4.0-1~webupd8~0_i386.deb
+'bcloud': newly installed as '3.8.2-2' (from 'universe'):
+ files needed: pool/main/b/bcloud/bcloud_3.8.2-2_all.deb
+'datagrip': newly installed as '1.0-1' (from 'universe'):
+ files needed: pool/main/d/datagrip/datagrip_1.0-1_all.deb
+'dropbox': newly installed as '2015.10.28' (from 'universe'):
+ files needed: pool/main/d/dropbox/dropbox_2015.10.28_i386.deb
+'gnome-todo': newly installed as '3.18.1-2deepin' (from 'universe'):
+ files needed: pool/main/g/gnome-todo/gnome-todo_3.18.1-2deepin_i386.deb
+'hotshots': newly installed as '2.2.0' (from 'universe'):
+ files needed: pool/main/h/hotshots/hotshots_2.2.0_i386.deb
+'lutris': newly installed as '0.3.7.2+1' (from 'universe'):
+ files needed: pool/main/l/lutris/lutris_0.3.7.2+1_i386.deb
+'ppsspp': newly installed as '1.1.1~ubuntu15.04.1' (from 'universe'):
+ files needed: pool/main/p/ppsspp/ppsspp_1.1.1~ubuntu15.04.1_i386.deb
+'ppsspp-common': newly installed as '1.1.1~ubuntu15.04.1' (from 'universe'):
+ files needed: pool/main/p/ppsspp/ppsspp-common_1.1.1~ubuntu15.04.1_all.deb
+'ppsspp-qt': newly installed as '1.1.1~ubuntu15.04.1' (from 'universe'):
+ files needed: pool/main/p/ppsspp/ppsspp-qt_1.1.1~ubuntu15.04.1_all.deb
+'vim': newly installed as '2:7.4.963-4deepin' (from 'universe'):
+ files needed: pool/main/v/vim/vim_7.4.963-4deepin_i386.deb
+'vim-athena': newly installed as '2:7.4.963-4deepin' (from 'universe'):
+ files needed: pool/main/v/vim/vim-athena_7.4.963-4deepin_i386.deb
+'vim-common': newly installed as '2:7.4.963-4deepin' (from 'universe'):
+ files needed: pool/main/v/vim/vim-common_7.4.963-4deepin_i386.deb
+'vim-dbg': newly installed as '2:7.4.963-4deepin' (from 'universe'):
+ files needed: pool/main/v/vim/vim-dbg_7.4.963-4deepin_i386.deb
+'vim-doc': newly installed as '2:7.4.963-4deepin' (from 'universe'):
+ files needed: pool/main/v/vim/vim-doc_7.4.963-4deepin_all.deb
+'vim-gnome': newly installed as '2:7.4.963-4deepin' (from 'universe'):
+ files needed: pool/main/v/vim/vim-gnome_7.4.963-4deepin_i386.deb
+'vim-gtk': newly installed as '2:7.4.963-4deepin' (from 'universe'):
+ files needed: pool/main/v/vim/vim-gtk_7.4.963-4deepin_i386.deb
+'vim-gui-common': newly installed as '2:7.4.963-4deepin' (from 'universe'):
+ files needed: pool/main/v/vim/vim-gui-common_7.4.963-4deepin_all.deb
+'vim-nox': newly installed as '2:7.4.963-4deepin' (from 'universe'):
+ files needed: pool/main/v/vim/vim-nox_7.4.963-4deepin_i386.deb
+'vim-runtime': newly installed as '2:7.4.963-4deepin' (from 'universe'):
+ files needed: pool/main/v/vim/vim-runtime_7.4.963-4deepin_all.deb
+'vim-tiny': newly installed as '2:7.4.963-4deepin' (from 'universe'):
+ files needed: pool/main/v/vim/vim-tiny_7.4.963-4deepin_i386.deb
+'xnretro': newly installed as '1.0.0-1' (from 'universe'):
+ files needed: pool/main/x/xnretro/xnretro_1.0.0-1_all.deb
+Updates needed for 'unstable|main|amd64':
+'atom': newly installed as '1.4.0-1~webupd8~0' (from 'universe'):
+ files needed: pool/main/a/atom/atom_1.4.0-1~webupd8~0_amd64.deb
+'bcloud': newly installed as '3.8.2-2' (from 'universe'):
+ files needed: pool/main/b/bcloud/bcloud_3.8.2-2_all.deb
+'datagrip': newly installed as '1.0-1' (from 'universe'):
+ files needed: pool/main/d/datagrip/datagrip_1.0-1_all.deb
+'dropbox': newly installed as '2015.10.28' (from 'universe'):
+ files needed: pool/main/d/dropbox/dropbox_2015.10.28_amd64.deb
+'gnome-todo': newly installed as '3.18.1-2deepin' (from 'universe'):
+ files needed: pool/main/g/gnome-todo/gnome-todo_3.18.1-2deepin_amd64.deb
+'hotshots': newly installed as '2.2.0' (from 'universe'):
+ files needed: pool/main/h/hotshots/hotshots_2.2.0_amd64.deb
+'lutris': newly installed as '0.3.7.2+1' (from 'universe'):
+ files needed: pool/main/l/lutris/lutris_0.3.7.2+1_amd64.deb
+'nylas': newly installed as '0.3.43' (from 'universe'):
+ files needed: pool/main/n/nylas/nylas_0.3.43_amd64.deb
+'ppsspp': newly installed as '1.1.1~ubuntu15.04.1' (from 'universe'):
+ files needed: pool/main/p/ppsspp/ppsspp_1.1.1~ubuntu15.04.1_amd64.deb
+'ppsspp-common': newly installed as '1.1.1~ubuntu15.04.1' (from 'universe'):
+ files needed: pool/main/p/ppsspp/ppsspp-common_1.1.1~ubuntu15.04.1_all.deb
+'ppsspp-qt': newly installed as '1.1.1~ubuntu15.04.1' (from 'universe'):
+ files needed: pool/main/p/ppsspp/ppsspp-qt_1.1.1~ubuntu15.04.1_all.deb
+'vim': newly installed as '2:7.4.963-4deepin' (from 'universe'):
+ files needed: pool/main/v/vim/vim_7.4.963-4deepin_amd64.deb
+'vim-athena': newly installed as '2:7.4.963-4deepin' (from 'universe'):
+ files needed: pool/main/v/vim/vim-athena_7.4.963-4deepin_amd64.deb
+'vim-common': newly installed as '2:7.4.963-4deepin' (from 'universe'):
+ files needed: pool/main/v/vim/vim-common_7.4.963-4deepin_amd64.deb
+'vim-dbg': newly installed as '2:7.4.963-4deepin' (from 'universe'):
+ files needed: pool/main/v/vim/vim-dbg_7.4.963-4deepin_amd64.deb
+'vim-doc': newly installed as '2:7.4.963-4deepin' (from 'universe'):
+ files needed: pool/main/v/vim/vim-doc_7.4.963-4deepin_all.deb
+'vim-gnome': newly installed as '2:7.4.963-4deepin' (from 'universe'):
+ files needed: pool/main/v/vim/vim-gnome_7.4.963-4deepin_amd64.deb
+'vim-gtk': newly installed as '2:7.4.963-4deepin' (from 'universe'):
+ files needed: pool/main/v/vim/vim-gtk_7.4.963-4deepin_amd64.deb
+'vim-gui-common': newly installed as '2:7.4.963-4deepin' (from 'universe'):
+ files needed: pool/main/v/vim/vim-gui-common_7.4.963-4deepin_all.deb
+'vim-nox': newly installed as '2:7.4.963-4deepin' (from 'universe'):
+ files needed: pool/main/v/vim/vim-nox_7.4.963-4deepin_amd64.deb
+'vim-runtime': newly installed as '2:7.4.963-4deepin' (from 'universe'):
+ files needed: pool/main/v/vim/vim-runtime_7.4.963-4deepin_all.deb
+'vim-tiny': newly installed as '2:7.4.963-4deepin' (from 'universe'):
+ files needed: pool/main/v/vim/vim-tiny_7.4.963-4deepin_amd64.deb
+'xnretro': newly installed as '1.0.0-1' (from 'universe'):
+ files needed: pool/main/x/xnretro/xnretro_1.0.0-1_all.deb
